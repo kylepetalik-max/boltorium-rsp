@@ -1,4 +1,4 @@
-# Boltorium Ride Signal Processor (RSP)
+# Boltorium Ride S lookignal Processor (RSP)
 
 The Ride Signal Processor (RSP) is Boltorium’s movement ingestion layer.  
 It reads and normalizes micro‑mobility sensor data (GPS, IMU, RPM, voltage, motion signatures),  
